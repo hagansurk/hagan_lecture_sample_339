@@ -1,0 +1,17 @@
+body{
+    background-color: grey;
+}
+
+p{
+    color: purple;
+    font-family: Geneva;
+}
+li{
+    display: inline;
+}
+img{
+    height: 200px;
+    width: 50%;
+    background-color: chocolate;
+    border:10px solid #021a40
+}
